@@ -2,7 +2,7 @@
  ___
 
 - Técnico em Elétrotécnica (Etec Waldir Duron Junior, Piraju-SP)
-- Cursando Faculdade de Ciência de Dados (Fatec, Ourinhos-SP) - 3/6
+- Cursando Faculdade de Ciência de Dados (Fatec, Ourinhos-SP) - 6/6
 - Linguas: Ingles (Advanced - C1) & Francês (Intermediate)
 - telefone: +55 14 99174-8505
   
