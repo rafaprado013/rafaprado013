@@ -14,8 +14,6 @@ ___
   [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://rafaelnascimentoprado@gmail.com)
 </div><br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaprado013&show_icons=true&theme=holi)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaprado013&theme=holi&layout=compact)
 
 
 **Linguagens e tecnologias:**
